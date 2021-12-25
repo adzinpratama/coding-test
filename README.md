@@ -26,4 +26,5 @@ Soal No 3:
 
 # Saran Pengembangan Selanjutnya
 
-Untuk Pengembangan Selanjutnya bisa ditambahkan Menu Untuk Pembelian Pulsa, Listrik , Dll
+- Untuk Pengembangan Selanjutnya bisa ditambahkan Menu Untuk Pembelian Pulsa, Listrik , Dll
+- bisa melakukan transfer saldo
